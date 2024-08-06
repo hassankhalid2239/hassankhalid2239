@@ -30,7 +30,7 @@
 
 ![Hassan Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhalid2239&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hassankhalid2239=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassankhalid2239&theme=dark)
 
 
 <br>

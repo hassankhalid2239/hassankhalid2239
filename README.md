@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Hassan Khalid</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working on Deep Learning
+- 🌱 I’m currently learning Computer Vision
+- 💬 Ask me anything about ML/DL 
 - 📫 How to reach me: m.hassankhalid39@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
